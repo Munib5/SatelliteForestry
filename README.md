@@ -1,4 +1,3 @@
-# ml_final_project
-Intro to Machine Learning 
+# Detecting Forest Types using Satellite Data
+Curbing climate change by active monitoring
 
-Author: Ken Iiyoshi(ki573@nyu.edu), Munib Mešinović (mm8625@nyu.edu), Mahrukh Tauseef(mt3312@nyu.edu )
